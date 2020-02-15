@@ -1,1 +1,13 @@
+**example wrong file**
 
+```json
+"info" : {
+    "name":"wrongFile/Fail",
+    "repository":"https://goto.fail",
+    "tags":["phail"],
+    "sdlc":[""],
+    "example_usage":"https://press.f.to.fail",
+    "output_type":["stacktrace"]
+    }
+    
+    ```
