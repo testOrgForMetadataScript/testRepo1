@@ -1,5 +1,5 @@
 
-"info" : {
+{"info" : {
     "name":"testOrg/testRepo1",
     "repository":"https://github.com/testOrgForMetadataScript/testRepo1",
     "tags":["builders","foo","bar"],
@@ -7,4 +7,4 @@
     "example_usage":"https://demo.testOrg.testRepo1.org",
     "output_type":["urls","guidelines"]
     }
-    
+}
